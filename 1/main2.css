@@ -1,0 +1,21 @@
+.plane-header{
+    background-color: #ff4500;
+    color: #0000ff;
+    height: 100vh;
+    font-style: italic;
+    font-display: swap;
+    font-family: comic sans ms;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 44px;
+}
+.pp{
+    border-radius: 100%;
+    width: 420px;
+    height: 420px;
+}
+body{
+    margin: 0;
+}
