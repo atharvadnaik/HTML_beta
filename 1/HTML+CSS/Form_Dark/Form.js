@@ -1,3 +1,3 @@
 function fn() {
-    Swal.fire('Thanks');
+    window.location = "https://atharvadnaik.github.io/BasicPython3";
 }
